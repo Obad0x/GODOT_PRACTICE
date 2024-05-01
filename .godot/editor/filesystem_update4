@@ -1,0 +1,4 @@
+res://default_env.tres
+res://scenes/Game.tscn
+res://scenes/player.tscn
+res://scripts/player.gd
