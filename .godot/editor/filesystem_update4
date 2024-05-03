@@ -1,11 +1,8 @@
 res://default_env.tres
 res://scenes/Game.tscn
-res://scenes/player.tscn
 res://scripts/player.gd
+res://scenes/player.tscn
 res://scenes/platform.tscn
 res://scenes/coin.tscn
-res://scripts/coin.gd
-res://scripts/killzone.gd
 res://scenes/killzone.tscn
 res://scenes/slime.tscn
-res://scenes/slime.gd
