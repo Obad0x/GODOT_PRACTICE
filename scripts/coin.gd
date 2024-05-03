@@ -1,8 +1,13 @@
 extends Area2D
 
 
+@onready var game_manager = %gameManager
+
+
+
 
 
 func _on_body_entered(body):
-	print('+1 coin')
+	game_manager.add_score()
 	queue_free()
+	
